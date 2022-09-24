@@ -5,11 +5,9 @@ function validateEmailInput() {
   const emailDigitado = inputEmail.value;
 
   const existeArroba = emailDigitado.includes('@');
-    const existePonto = emailDigitado.includes('.');
-  if(existeArroba === false) {
-    alertText.innerHTML = 'E-mail inválido. Verifique o e-mail e tente novamente.';
-  }
-  if(existePonto === false) {
+  const existePonto = emailDigitado.includes(".");
+
+  if(existeArroba === false || existePonto === false) {
     alertText.innerHTML = 'E-mail inválido. Verifique o e-mail e tente novamente.';
   }
 }
