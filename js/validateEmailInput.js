@@ -1,3 +1,4 @@
-function validateEmailInput(event) {
-  event.preventDefault();
-} 
+function validateEmailInput() {
+  const inputEmail = document.querySelector("input");
+  const emailDigitado = inputEmail.value;
+}
