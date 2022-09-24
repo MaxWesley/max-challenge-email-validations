@@ -1,1 +1,3 @@
-alert('TESTE');
+function validateEmailInput(event) {
+  event.preventDefault();
+} 
