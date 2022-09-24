@@ -1,1 +1,3 @@
-alert('TESTE');
+function validateEmailInput() {
+    /** SEU CÓDIGO AQUI */
+}
