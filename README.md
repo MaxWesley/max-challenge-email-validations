@@ -5,27 +5,35 @@ Nesse desafio você vai utilizar somente HTML, CSS e Javascript.
 Obs: sem uso de bibliotecas, apenas com Javascript de forma nativa.
 
 ## Desafios
-- [] pegar texto do input de e-mail QUANDO apertar no botão "Enviar";
-- [] validar se existe @ no texto do input e-mail, caso não exista, informar
+- [] Pegar texto do input de e-mail QUANDO apertar no botão "Enviar";
+- [] Validar se existe @ no texto do input e-mail, caso não exista, informar
 que é um e-mail inválido;
-- [] validar se existe . no texto do input e-mail, caso não exista, informar
+- [] Validar se existe . no texto do input e-mail, caso não exista, informar
 que é um e-mail inválido;
-- [] caso todas as informações estejam corretas, informar que é um e-mail válido;
+- [] Caso todas as informações estejam corretas, informar que é um e-mail válido;
 
 ## Comandos GIT usados
 - git status
 - git add . 
 - git commit -m ""
 
+https://www.atlassian.com/git/glossary
+
 ## Conceitos aprendidos
-- chamada de funções;
-- validações de formulários;
-- alteração de estilo de elementos;
+- Funções e quebra de Funções;
+- Validações de formulários;
+- Estilização CSS com Javascript;
+- GIT;
 
 ## Extra Challenges
-- [] validar se existe caractere em branco, caso exista, retornar mensagem de erro;
-- [] quando não tiver texto no input não deve exibir nenhuma mensagem de erro;
+- [] Validar se existe caractere em branco, caso exista, retornar mensagem de erro;
+- [] Quando não tiver texto no input não deve exibir nenhuma mensagem de erro;
 
 ## Max's Challenges
 - [] Corrigir e-mail caso o e-mail seja digitado errado. Exemplo: email digitado:
-    maxwesleydevgmail.com. No input, o texto deve ser corrigido para maxwesleydev@gmail.com;
+    maxwesleydevgmail.com. 
+    No input, o texto deve ser corrigido para maxwesleydev@gmail.com;
+
+
+
+Qualquer dúvida pode me contactar por e-mail em maxwesleydev@gmail.com.
