@@ -28,4 +28,4 @@ que é um e-mail inválido;
 
 ## Max's Challenges
 - [] Corrigir e-mail caso o e-mail seja digitado errado. Exemplo: email digitado:
-    maxwesleydevgmail.com. No input, o texto deve ser corrigido para maxwesley@gmail.com;
+    maxwesleydevgmail.com. No input, o texto deve ser corrigido para maxwesleydev@gmail.com;
